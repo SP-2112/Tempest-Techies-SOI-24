@@ -1,0 +1,14 @@
+SOI - 24
+Tempest Techies
+
+Contribution of Team Members
+
+PreProcessing - Saipushkar Nagaraj / Surya Prakash S
+Data Visualization - Saipushkar Nagaraj
+Feature-engineering - Saipushkar Nagaraj / Surya Prakash S
+Model-Selection
+    Linear_Model - Saipushkar Nagaraj
+    Descision Tree - Nihar Sagar G
+    Random Forest - Nihar Sagar G
+    Xgboost - Surya Prakash S
+Hyper-parameter Training - Surya Prakash S / Nihar Sagar G
