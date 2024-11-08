@@ -3,5 +3,5 @@ AI-DS Project
 
 Team Members :
 1. Surya Prakash S
-2. Nihar Sagar G
+2. Nihar Sagar g
 3. Saipushkar Nagaraj
